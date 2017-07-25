@@ -1,0 +1,17 @@
+{
+  "name": "time-duration-stringify",
+  "version": "1.0.0",
+  "description": "Transform a time duration into a formatted string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": "https://github.com/Rifdhan/time-duration-stringify",
+  "author": "Rifdhan Nazeer",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.2"
+  },
+  "dependencies": {}
+}
