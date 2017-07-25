@@ -1,6 +1,6 @@
 # Time-Duration-Stringify
 
-This package lets you transform a time duration into a nicely-formatted string. Provide an integer duration in milliseconds, and get a time duration of either the format "5:03", or "5 minutes and 3 seconds".
+This package lets you transform a time duration into a nicely-formatted string. Provide an integer duration in milliseconds, and get a time duration of either the format "5:03", or "5 minutes, and 3 seconds".
 
 # Installation
 
