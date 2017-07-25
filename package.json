@@ -1,6 +1,6 @@
 {
   "name": "time-duration-stringify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform a time duration into a formatted string.",
   "main": "index.js",
   "scripts": {
